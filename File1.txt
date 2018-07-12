@@ -6,6 +6,3 @@ Added From newbranch
 
 Attempt for a rebase from newbranch
 Second edit from master branch
-
-
-Trying to get a rebase
