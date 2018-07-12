@@ -5,3 +5,4 @@ Added From newbranch
 
 
 Attempt for a rebase from newbranch
+Second edit from master branch
