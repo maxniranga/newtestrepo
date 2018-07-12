@@ -2,3 +2,6 @@ Hello World
 
 
 Added From newbranch
+
+
+Attempt for a rebase from newbranch
